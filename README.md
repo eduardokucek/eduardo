@@ -1,6 +1,6 @@
 # &lt;Eduardo Kucek/&gt;
 
-Olá! Seja muito bem vind@ ao meu GitHub. Aqui compartilho meus códigos dessa minha jornada dev. 🌌
+Olá! Seja muito bem vind@ ao meu GitHub. Aqui compartilho meus códigos nessa minha jornada dev. 🌌
 
 ### 🔗 Conecte-se comigo...
 
