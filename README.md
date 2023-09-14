@@ -4,7 +4,7 @@ Hello and welcome to my GitHub! This is where I share my codes on my dev journey
 Fell free to explore and send me feedback to improve even more my skills.
 
 ### 🌱 Learning
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=FF0838)
 ### 🪴 Improving
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
@@ -20,7 +20,7 @@ Fell free to explore and send me feedback to improve even more my skills.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/eduardokucek/)
 [![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/eduardokucek)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:eduardo.kucek@gmail.com)
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/eduardo_kucek/)
+[![Perfil DIO](https://img.shields.io/badge/-DIO's%20Profile-30A3DC?style=for-the-badge)](https://web.dio.me/users/eduardo_kucek/)
 
 ### Skills
 
