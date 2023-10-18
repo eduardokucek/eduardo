@@ -5,12 +5,12 @@ Fell free to explore and send me feedback to improve even more my skills.
 
 ### 🌱 Learning
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=FF0838)
+![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=7E71B6)
+![C#](https://img.shields.io/badge/csharp-000?style=for-the-badge&logo=csharp&logoColor=93008B)
 ### 🪴 Improving
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-
 
 ### My projects
 [![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-v1-0-delta.vercel.app/)
