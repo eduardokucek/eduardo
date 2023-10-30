@@ -4,7 +4,6 @@ Hello and welcome to my GitHub! This is where I share my codes on my dev journey
 Fell free to explore and send me feedback to improve even more my skills.
 
 ### 🌱 Learning
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=FF0838)
 ![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=7E71B6)
 ![C#](https://img.shields.io/badge/csharp-000?style=for-the-badge&logo=csharp&logoColor=93008B)
 ### 🪴 Improving
