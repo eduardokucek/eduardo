@@ -3,8 +3,8 @@
 Hello and welcome to my GitHub! This is where I share my codes on my dev journey. 🌌\
 Fell free to explore and send me feedback to improve even more my skills.
 
-### 🌱 Learning
-![C#](https://img.shields.io/badge/csharp-000?style=for-the-badge&logo=csharp&logoColor=93008B)
+<!--### 🌱 Learning
+![C#](https://img.shields.io/badge/csharp-000?style=for-the-badge&logo=csharp&logoColor=93008B) -->
 ### 🪴 Improving
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
